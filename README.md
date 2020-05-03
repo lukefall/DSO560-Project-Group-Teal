@@ -1,5 +1,5 @@
 # DSO560-Project-Group-Teal
-This repo is a collection of codes our group wrote for Text Classification Project of DSO560 class. Our client is Thread Together, an Australian non-profit organization. (https://www.threadtogether.org)
+This repo is created for the final project of DSO 560 Text Analaytics and Natural Language Processing. Our client is Thread Together, an Australian non-profit organization. Further details can be accessed at (https://www.threadtogether.org)
 
 Professor: Yu Chen
 
@@ -14,19 +14,13 @@ Kenneth Jingxuan Huang (jwang452@usc.edu)
 
 Project Overview
 
-Thread Together has huge inventory of women clothing. Each product possesses several attributes such as occasion, color, etc. Within each attribute group, each product possesses single or multiple values, such as "workout" for occasion or "black" for color. While only a proportion of products in the current inventory of Thread Together are tagged with these values, our client is looking for predictive models such that when given some information about a product (e.g. description, brand, etc.), the models are able to predict the attribute value(s). This will reduce labor cost and increase efficiency.
+Each item at Thread Together (TT) has several attributes containing information regarding its style, color, occasion etc. Within each attribute grouping, each product can be assigned with a single or multiple labels, such as "casual" for style and "green" and 'red" for color. Our client is seeking help from us to build predictive models such that given information about a new product, the models will  predict the attribute values, thereby reducing costs of manual labelling.
 
-We are required to pick 5 attributes groups, and build models for each of them. As results, when we input product information, the models will output predicted values for each of the attribute.
-
-The 6 attributes we chose are:
+In total we are tasked with 5 attributes groups, and building models for each. As a result, we built models for 6 attributes, which are:
 
 Occasion
 Style
 Category
 Dry Clean Only
 Embellishment
-Fit
 
-We were provided a subset of all inventory data, and also a tagged list of products made by domain experts. With these data, we are able to train the models and make prediction. In the repo one could find codes from each of our group member, as each of us is responsible for one attribute. There is/will also a aggregation of all codes so that our client could use directly. There will not be a summary report as we are not required to, but there is/will be a brief summary of the architectures for each model and logic process.
-
-If you have any questions or further interests, you could contact us.
