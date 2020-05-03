@@ -14,7 +14,7 @@ Kenneth Jingxuan Huang (jwang452@usc.edu)
 
 Project Overview
 
-Each item at Thread Together (TT) has several attributes containing information regarding its style, color, occasion etc. Within each attribute grouping, each product can be assigned with a single or multiple labels, such as "casual" for style and "green" and 'red" for color. Our client is seeking help from us to build predictive models such that given information about a new product, the models will  predict the attribute values, thereby reducing costs of manual labelling.
+Each item at Thread Together (TT) has several attributes containing information regarding its style, color, occasion etc. Within each attribute grouping, a product can be assigned with a single or multiple labels, such as "casual" for style and "green" and 'red" for color. Our client is seeking help from us to build predictive models such that given information about a new product, the models will  predict the attribute values, thereby reducing costs of manual labelling.
 
 In total we are tasked with 5 attributes groups, and building models for each. As a result, we built models for 6 attributes, which are:
 
