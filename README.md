@@ -6,10 +6,10 @@ Professor: Yu Chen
 Group Teal:
 
 Kefan Luke Lu (kefanlu@usc.edu)
-Andrew Zhao ()
-Jinney Guo ()
-Qian Huang ()
-Kenneth Jingxuan Huang ()
+Andrew Zhao (zhaoandr@usc.edu)
+Jinney Guo (jinneygu@usc.edu)
+Heidi Qian Huang ()
+Kenneth Jingxuan Huang (jwang452@usc.edu)
 
 
 Project Overview
@@ -18,13 +18,15 @@ Thread Together has huge inventory of women clothing. Each product possesses sev
 
 We are required to pick 5 attributes groups, and build models for each of them. As results, when we input product information, the models will output predicted values for each of the attribute.
 
-The 5 attributes we chose are:
+The 6 attributes we chose are:
 
-Occasion (as required)
-Style (as required)
+Occasion
+Style
 Category
-Prints/Pattern
+Dry Clean Only
+Embellishment
 Fit
+
 We were provided a subset of all inventory data, and also a tagged list of products made by domain experts. With these data, we are able to train the models and make prediction. In the repo one could find codes from each of our group member, as each of us is responsible for one attribute. There is/will also a aggregation of all codes so that our client could use directly. There will not be a summary report as we are not required to, but there is/will be a brief summary of the architectures for each model and logic process.
 
 If you have any questions or further interests, you could contact us.
