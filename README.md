@@ -18,9 +18,9 @@ Each item at Thread Together (TT) has several attributes containing information 
 
 In total we are tasked with 5 attributes groups, and building models for each. As a result, we built models for 6 attributes, which are:
 
-Occasion /n
-Style \n
-Category \n
-Dry Clean Only \n
-Embellishment \n
+Occasion <br />
+Style <br />
+Category <br />
+Dry Clean Only <br />
+Embellishment <br />
 
