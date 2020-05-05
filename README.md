@@ -23,4 +23,4 @@ Style <br />
 Category <br />
 Dry Clean Only <br />
 Embellishment <br />
-
+Fit
